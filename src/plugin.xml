@@ -15,6 +15,10 @@
                resource="profiles/SharePoint.profile.xml"
                resource_type="systemProfile">
          </resource>
+         <resource
+               resource="sessions/SharePoint_30Mins.dts"
+               resource_type="session">
+         </resource>		 
       </metainfo>
    </extension>
 
