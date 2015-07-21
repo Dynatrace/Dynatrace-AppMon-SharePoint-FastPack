@@ -4,4 +4,4 @@
 Services and Microsoft Office Share Server) enables faster analysis of SharePoint Applications by providing specific Sensor Packs and Dashboards to identify problems in custom WebParts, SharePoint
 Lists & Views, usage of CAML, ...
 
-Find further information in the [dynaTrace community](https://community.compuwareapm.com/community/display/DL/SharePoint+FastPack) 
+Find further information in the [dynaTrace community](https://community.dynatrace.com/community/display/DL/SharePoint+FastPack) 
